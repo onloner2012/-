@@ -1,0 +1,25 @@
+<html>
+
+<head>
+<title>认识标签</title>
+<style>
+span {
+  color:#0000f;
+}
+</style>
+</head>
+<body>
+<h1>认识标签</h1>
+<p><q><...></....></q>就是标签tag，成对出现，<...>为开始标签，</.....>为结束标签。&nbsp;&nbsp;<br/>
+<em>强调</em>为斜体，<strong>更加的强调</strong>为<span>粗体</span>还可以自己修改自己的style。<br/>
+<blockquote>暗淡轻黄体性柔，情疏迹远只香留。何须浅碧深红色，自是花中第一流。</blockquote>我引用一首诗。
+<hr></hr>
+<pre>
+<html>
+<head></head>
+<body></body>
+</html>
+</pre>
+</p>
+</body>
+</html>
